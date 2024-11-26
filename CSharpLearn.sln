@@ -9,17 +9,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldByWinForm", "HelloWorldByWinForm\HelloWorldByWinForm.csproj", "{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "类和命名空间", "类和命名空间", "{E03622EC-E07C-453C-9F3E-70FA4E36D623}"
+	ProjectSection(SolutionItems) = preProject
+		黑白盒引用.md = 黑白盒引用.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "黑白盒引用", "黑白盒引用\黑白盒引用.csproj", "{EC371FFF-C0D4-40DE-84E4-C8001849D70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "黑盒引用", "黑盒引用\黑盒引用.csproj", "{BB3B518B-CE7C-440C-85C4-76623F6915CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "白盒引用", "白盒引用\白盒引用.csproj", "{789ED103-27EB-46C2-85C5-D2BC2ACEED8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{77ED58B3-A000-42E1-BBA4-71D02D434879} = {FD04E1CC-CA51-4B30-A0B1-47A9061DC567}
-		{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346} = {FD04E1CC-CA51-4B30-A0B1-47A9061DC567}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{77ED58B3-A000-42E1-BBA4-71D02D434879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +34,27 @@ Global
 		{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC371FFF-C0D4-40DE-84E4-C8001849D70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC371FFF-C0D4-40DE-84E4-C8001849D70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC371FFF-C0D4-40DE-84E4-C8001849D70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC371FFF-C0D4-40DE-84E4-C8001849D70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3B518B-CE7C-440C-85C4-76623F6915CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3B518B-CE7C-440C-85C4-76623F6915CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3B518B-CE7C-440C-85C4-76623F6915CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3B518B-CE7C-440C-85C4-76623F6915CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789ED103-27EB-46C2-85C5-D2BC2ACEED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789ED103-27EB-46C2-85C5-D2BC2ACEED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789ED103-27EB-46C2-85C5-D2BC2ACEED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789ED103-27EB-46C2-85C5-D2BC2ACEED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77ED58B3-A000-42E1-BBA4-71D02D434879} = {FD04E1CC-CA51-4B30-A0B1-47A9061DC567}
+		{EC3A7F6A-B1CA-4F4D-BD33-CBD4A6712346} = {FD04E1CC-CA51-4B30-A0B1-47A9061DC567}
+		{EC371FFF-C0D4-40DE-84E4-C8001849D70D} = {E03622EC-E07C-453C-9F3E-70FA4E36D623}
+		{BB3B518B-CE7C-440C-85C4-76623F6915CB} = {E03622EC-E07C-453C-9F3E-70FA4E36D623}
+		{789ED103-27EB-46C2-85C5-D2BC2ACEED8C} = {E03622EC-E07C-453C-9F3E-70FA4E36D623}
 	EndGlobalSection
 EndGlobal

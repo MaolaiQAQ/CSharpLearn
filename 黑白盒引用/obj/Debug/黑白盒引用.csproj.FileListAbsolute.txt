@@ -1,0 +1,10 @@
+E:\CSharpLearn\黑白盒引用\bin\Debug\黑白盒引用.exe.config
+E:\CSharpLearn\黑白盒引用\bin\Debug\黑白盒引用.exe
+E:\CSharpLearn\黑白盒引用\bin\Debug\黑白盒引用.pdb
+E:\CSharpLearn\黑白盒引用\bin\Debug\黑盒引用.dll
+E:\CSharpLearn\黑白盒引用\bin\Debug\黑盒引用.pdb
+E:\CSharpLearn\黑白盒引用\obj\Debug\黑白盒引用.csproj.AssemblyReference.cache
+E:\CSharpLearn\黑白盒引用\obj\Debug\黑白盒引用.csproj.CoreCompileInputs.cache
+E:\CSharpLearn\黑白盒引用\obj\Debug\黑白盒引用.csproj.Up2Date
+E:\CSharpLearn\黑白盒引用\obj\Debug\黑白盒引用.exe
+E:\CSharpLearn\黑白盒引用\obj\Debug\黑白盒引用.pdb
