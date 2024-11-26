@@ -1,0 +1,15 @@
+E:\CSharpLearn\HelloWorldByWinForm\bin\Debug\net9.0-windows\HelloWorldByWinForm.exe
+E:\CSharpLearn\HelloWorldByWinForm\bin\Debug\net9.0-windows\HelloWorldByWinForm.deps.json
+E:\CSharpLearn\HelloWorldByWinForm\bin\Debug\net9.0-windows\HelloWorldByWinForm.runtimeconfig.json
+E:\CSharpLearn\HelloWorldByWinForm\bin\Debug\net9.0-windows\HelloWorldByWinForm.dll
+E:\CSharpLearn\HelloWorldByWinForm\bin\Debug\net9.0-windows\HelloWorldByWinForm.pdb
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.AssemblyInfoInputs.cache
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.AssemblyInfo.cs
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.csproj.CoreCompileInputs.cache
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.sourcelink.json
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.dll
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\refint\HelloWorldByWinForm.dll
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.pdb
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\HelloWorldByWinForm.genruntimeconfig.cache
+E:\CSharpLearn\HelloWorldByWinForm\obj\Debug\net9.0-windows\ref\HelloWorldByWinForm.dll

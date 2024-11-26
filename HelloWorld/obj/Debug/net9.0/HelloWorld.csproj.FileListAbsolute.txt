@@ -1,0 +1,15 @@
+E:\CSharpLearn\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+E:\CSharpLearn\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+E:\CSharpLearn\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+E:\CSharpLearn\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+E:\CSharpLearn\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+E:\CSharpLearn\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
